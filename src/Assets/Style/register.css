@@ -1,0 +1,89 @@
+/* body { */
+    /* background-image: url('../Image/medical\ shop\ login.jpg '); */
+    /* background-image: url('../Image/home_image1.jpg');
+    background-repeat: no-repeat;
+    background-size: cover; */
+/* } */
+/* .reg{
+font-family: Arial, sans-serif;
+background-color: #f4f4f4;
+display: flex;
+justify-content: center;
+height: auto;
+margin: 0;
+} */
+
+.container {
+    max-width: 300px;
+    margin: 0;
+    padding: 20px;
+    background-color: #fff;
+    border-radius: 5px;
+    box-shadow: 0 0 100px rgba(0, 0, 0, 0.1);
+    text-align: left;
+    background-image: url('../Image/home_image1.jpg');
+}
+
+label {
+    display: block;
+    margin-bottom: 5px;
+}
+
+input {
+    width: 100%;
+    padding: 8px;
+    margin-bottom: 10px;
+    box-sizing: border-box;
+}
+
+input[type="radio"] {
+    margin-right: 5px;
+    display: inline-block; /* Make radio buttons inline */
+}
+
+br {
+    height: 10px;
+    display: block;
+    content: '';
+}
+
+.reg {
+    margin-left: 550px;
+    margin-right: 550px;
+    background-color: #393636b7;
+    border: 2px solid #ccc;
+    padding: 30px;
+    color: white;
+    height: 600px;
+    height:auto;
+    margin-top: -30px;
+    /* background-image: url('../Image/home_image1.jpg');
+    background-size: cover;
+    background-repeat: no-repeat; */
+}
+button {
+    background-color: #4caf50;
+    color: #fff;
+    padding: 10px 20px;
+    border: none;
+    border-radius: 3px;
+    cursor: pointer;
+
+}
+
+button:hover {
+    background-color: #45a049;
+}
+
+.regimage
+{
+    background-image: url('../Image/medical\ shop\ login.jpg');
+    background-size: cover;
+    background-repeat: no-repeat;
+    /* height: 615px; */
+    /* height:400px; */
+    bottom: 0%;
+    margin-right: 0%;
+    height:700px;
+    margin-top: -50px;
+}

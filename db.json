@@ -1,0 +1,188 @@
+{
+  "users": [
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "12345",
+      "contactNumber": "7395959199",
+      "id": 1
+    },
+    {
+      "user": "Mythili",
+      "dob": "2024-01-02",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "12345",
+      "contactNumber": "7395959199",
+      "id": 2
+    },
+    {
+      "user": "Lavanya",
+      "dob": "2024-01-02",
+      "email": "lavanya@gmail.com",
+      "password": "lava",
+      "contactNumber": "9025168199",
+      "id": 3
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 4
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 5
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 6
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 7
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 8
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 9
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 10
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 11
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 12
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 13
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 14
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 15
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 16
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 17
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 18
+    },
+    {
+      "user": "myth",
+      "dob": "2024-01-01",
+      "email": "22cse.mythili.k@skct.edu.in",
+      "password": "1234",
+      "contactNumber": "7395866900",
+      "id": 19
+    },
+    {
+      "user": "Nivetha",
+      "dob": "2004-01-17",
+      "email": "nivetha@gmail.com",
+      "password": "nive123",
+      "contactNumber": "8767876823",
+      "id": 20
+    },
+    {
+      "user": "Madhumitha",
+      "dob": "2005-06-22",
+      "email": "madhu@gmail.com",
+      "password": "madhu123",
+      "contactNumber": "7352729446",
+      "id": 21
+    },
+    {
+      "user": "Pradeepa",
+      "dob": "2003-08-31",
+      "email": "pradee@gmail.com",
+      "password": "pradee123",
+      "contactNumber": "8789963892",
+      "id": 22
+    },
+    {
+      "user": "Lakshana",
+      "dob": "2005-04-11",
+      "email": "lakshana@gmail.com",
+      "password": "laksh77",
+      "contactNumber": "8392893949",
+      "id": 23
+    }
+  ]
+}

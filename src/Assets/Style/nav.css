@@ -1,0 +1,40 @@
+nav{
+    background-color: rgba(20, 19, 19, 0.986);
+    height: auto;
+    width: auto;
+    font: 50px;
+    margin-top: 0%;
+    /* margin-bottom: 10%; */
+    padding-top: 0%;
+
+}
+ul{
+    list-style-type: none;
+}
+li{
+    display: inline-block;
+    padding: 30px;
+    /* border-spacing: 50px; */
+}
+a{
+    color:aliceblue;
+    text-decoration: none;
+}
+li:hover:not(.active){
+    background-color: rgb(224, 142, 34);
+}
+.p {
+    padding-left: 3%;
+    margin: 0%;
+    font-size: 30px; /* Adjust the font size as needed */
+  }
+  
+  .img {
+    margin-right: 10px; /* Adjust the margin as needed */
+  }
+  /* body{
+    position:fixed;
+  } */
+  
+
+  

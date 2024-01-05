@@ -1,0 +1,107 @@
+.log {
+  max-width: 400px;
+  width:500px;
+  padding: 20px;
+  border: 2px solid #ccc;
+  border-radius: 5px;
+  box-shadow: 0 0 10px rgba(251, 249, 249, 0.1);
+  background-color: #373737b7;
+  color: white;
+  height: 450px;
+  /* padding-right: 100px; */
+  margin-left: 0%;
+  margin-top: 100px; /* Add margin-top to move only the container downwards */
+}
+
+/* .logimage {
+  background-image: url('../Image/medical shop login.jpg');
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 680px;
+  padding-top: 0%;
+  margin-top: -60px;
+} */
+.logimage {
+  background-image: url('../Image/medical\ shop\ login.jpg'); /* Adjust the path accordingly */
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 655px; /* Adjust the height as needed */
+  display: flex;
+  justify-content: center;
+  /* align-items: center; */
+  position: relative;
+  margin-top: -50px;
+}
+.log .container
+{
+  padding-bottom: 20px;
+}
+
+.log h1 {
+  color: #333;
+  color:white
+}
+
+.log label {
+  display: block;
+  margin-top: 10px;
+  font-weight: bold;
+}
+
+.log input {
+  width: 100%;
+  padding: 8px;
+  margin-top: 5px;
+  margin-bottom: 10px;
+  box-sizing: border-box;
+}
+
+.log button {
+  background-color: #4caf50;
+  color: white;
+  padding: 10px 15px;
+  border: none;
+  border-radius: 5px;
+  cursor: pointer;
+}
+
+.log button:hover {
+  background-color: #45a049;
+}
+
+.log a {
+  text-decoration: none;
+  color: #007bff;
+}
+
+.log a:hover {
+  text-decoration: underline;
+}
+li{
+  padding: 0;
+}
+
+/* .logimage
+{ */
+  /* background-image: url('../Image/medical\ shop\ login.jpg'); */
+  /* background-repeat: no-repeat;
+  background-size: cover; */
+  /* height: 680px;
+  padding-top: 0%;
+  margin-top: -60px;
+}
+/* body{ */
+  /* background-image: url('../Image/home_image1.jpg'); */
+  /* background-repeat: no-repeat; */
+  /* background-size:cover; */
+  /* position: absolute; */
+/* } */
+/* body{
+  background-image: url('C:\Users\91739\Desktop\Medical shop\my_react\src\Assets\Image\home_image1.jpg');
+  background-size: cover;
+ } */
+colgroup{
+  color: rgb(8, 123, 123);
+}
+
+
